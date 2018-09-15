@@ -64,6 +64,6 @@ local sub2c={0:"title sub2c",1:text05,2:text06}
 local sub2d={0:"title sub2d",1:text07,2:text08}
 local sub1a={0:"title sub1a".1:sub2a,2:sub2b}
 local sub1b={0:"title sub1b".1:sub2c,2:sub2d}
-local memu={0:"Main",i:sub1a,2:sub1b}
+local memu={0:"Main",1:sub1a,2:sub1b}
 
 ]]
